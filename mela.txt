@@ -4,3 +4,4 @@ riga 3
 riga 4
 riga 5
 riga 6 aggiunta da a
+riga 7 aggiunta 24.11.2016
