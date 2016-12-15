@@ -1,3 +1,6 @@
 [submodule "citrus"]
 	path = citrus
 	url = https://github.com/FrancescoUrbano/citrus.git
+[submodule "citrus2"]
+	path = citrus2
+	url = https://github.com/FrancescoUrbano/citrus2.git
