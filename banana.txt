@@ -6,5 +6,4 @@ riga 5
 riga 7
 riga 9
 riga 10
-riga 11
 riga 12
