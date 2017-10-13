@@ -1,9 +1,0 @@
-Banana
-riga 2
-riga 3
-riga 4
-riga 5
-riga 7
-riga 9
-riga 10
-riga 12
